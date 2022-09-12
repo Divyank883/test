@@ -3,3 +3,4 @@ def AI(name):
   return
 
 AI(Divyank)
+#pseudo
